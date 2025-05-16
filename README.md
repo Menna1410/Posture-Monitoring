@@ -76,11 +76,12 @@ This project implements a full computer vision pipeline for **human pose estimat
 ## 📊 Output Files
 
 | File Name             | Description                                  |
-|-----------------------|----------------------------------------------|
-| `keypoints.csv`       | 2D (x, y) keypoints for each joint            |
-| `joint_angles.csv`    | Elbow, knee, and hip angles per image         |
-| `load_estimations.csv`| Biomechanical load (kg) for each body part    |
-| `annotated_*.jpg`     | Color-coded joint overlay images              |
+|---------------------------|----------------------------------------------|
+| `keypoints.csv`           | 2D (x, y) keypoints for each joint            |
+| `joint_angles.csv`        | Elbow, knee, and hip angles per image         |
+| `load_estimations.csv`    | Biomechanical load (kg) for each body part    |
+| `annotated_*.jpg`         | Color-coded joint overlay images              |
+| `posture_load_summary.csv`| The posture load summary                      |
 
 ---
 
