@@ -1,8 +1,7 @@
 # Posture-Monitoring
 Analyze a set of images of a fitness coach performing different exercises (standing, squatting empty-handed, and holding weights). Estimate the load distribution across key body parts (arms, legs, hips, and chest) based on the given data and exercise posture.
 
-# 🏋️‍♂️ Human Pose Estimation & Biomechanical Load Analysis – SEE Assessment
-
+# 🏋️‍♂️ Human Pose Estimation & Biomechanical Load Analysis
 This project implements a full computer vision pipeline for **human pose estimation**, **joint angle computation**, and **biomechanical load distribution analysis** using YOLOv8. Developed as part of the SEE Startup technical assessment for the **Computer Vision Engineer** position.
 
 ---
@@ -10,7 +9,7 @@ This project implements a full computer vision pipeline for **human pose estimat
 ## 📁 Dataset
 
 - **Name**: Human Pose Estimation Dataset  
-- **Source**: [Kaggle – Human Pose Estimation Dataset](https://www.kaggle.com/datasets/trainingdatapro/pose-estimation)
+- **Source**: [Kaggle – Human Pose Estimation Dataset](https://www.kaggle.com/datasets/trainingdatapro/pose-estimation) and some images downloaded from [Unsplash](https://unsplash.com/s/photos/fitness-trainer) & [Pexels](https://www.pexels.com/search/fitness%20trainer/)
 - **Type**: Static exercise images of a fitness coach
 - **Format**: `.jpg` images
 
